@@ -27,4 +27,4 @@ More projects will be added to this portfolio as I continue to develop my skills
 Feedback, questions, and discussions are welcome. Feel free to open an issue or submit a pull request if you have suggestions for improvement or want to collaborate on data analysis projects.
 
 ## Contact
-Let's connect! If you're interested in my work or have an opportunity to discuss, please reach out to me at petrusalexandru.ap@gmail.com or through [LinkedIn](www.linkedin.com/in/alexandru-petrus-25a16a203).
+Let's connect! If you're interested in my work or have an opportunity to discuss, please reach out to me at petrusalexandru.ap@gmail.com or through [LinkedIn](www.linkedin.com/in/alexandru-petrus-25a16a203). 
