@@ -10,7 +10,7 @@ Below are some of the projects I've worked on, demonstrating my approach to anal
 - **Summary**: This project involves a comprehensive analysis of an HR dataset to uncover patterns related to employee satisfaction, performance, and turnover..
 - **Tools & Technologies**: SQL
 - **Key Insights**: Insights into factors that influence employee retention, predictors of employee performance, and recommendations for HR policy adjustments.
-- **[View Project](URL to the project within the repository)**
+- **[View Project](https://github.com/DesktopAli/PortfolioProjects/blob/main/HR%20Dataset%20portfolio.sql)**
 
 More projects will be added to this portfolio as I continue to develop my skills and complete new analyses.
 
