@@ -13,9 +13,9 @@ Below are some of the projects I've worked on, demonstrating my approach to anal
 - **[View Project](Projects/HRD_SQL)**
 
 ### [Project 2: HR dashboard in excel]
-- **Summary**: This project involves a comprehensive analysis of an HR dataset to uncover patterns related to employee satisfaction, performance, and turnover..
-- **Tools & Technologies**: SQL
-- **Key Insights**: Insights into factors that influence employee retention, predictors of employee performance, and recommendations for HR policy adjustments.
+- **Summary**: This project involves a comprehensive analysis of the attrition (The departure of company employees)..
+- **Tools & Technologies**: Excel
+- **Key Insights**: This project shows the reasons why employees leaves the company. I added few columns using the if statments (PerformanceStatus, Age group, Age, Gender and Married)
 - **[View Project](https://1drv.ms/x/s!AuuowC4Pxv7UklouF6WJ5UU6Y1lu?e=RcLink)**
 
 ## Skills and Competencies
