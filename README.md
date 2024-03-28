@@ -18,6 +18,15 @@ Below are some of the projects I've worked on, demonstrating my approach to anal
 - **Key Insights**: This project shows the reasons why employees leaves the company. I added few columns using the if statments (PerformanceStatus, Age group, Age, Gender and Married)
 - **[View Project](https://1drv.ms/x/s!AuuowC4Pxv7UklouF6WJ5UU6Y1lu?e=RcLink)**
 
+### [Project 3: Sales report in Power Bi]
+- **Summary**: This project presents an in-depth analysis of sales performance using Power BI. It explores various aspects of sales data to identify trends, patterns, and opportunities for improvement.
+- **Tools & Technologies**: Power Bi
+- **Key Insights**: Analyzed sales trends over time to identify seasonal patterns and sales fluctuations.
+                    Examined sales performance across different product categories and regions.
+                    Utilized slicers and filters for interactive exploration of sales data.
+                    Implemented measures and calculated columns to derive additional insights from the dataset.
+- **[View Project]**
+- 
 ## Skills and Competencies
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -25,7 +34,7 @@ Below are some of the projects I've worked on, demonstrating my approach to anal
 - Data Visualization
 - Statistical Analysis and Hypothesis Testing
 - Reporting and Storytelling with Data
-- Proficiency in SQL, Python (Pandas, NumPy, Scikit-learn), Tableau
+- Proficiency in SQL, Python (Pandas, NumPy, Scikit-learn), Power Bi
 
 ## Contributions
 Feedback, questions, and discussions are welcome. Feel free to open an issue or submit a pull request if you have suggestions for improvement or want to collaborate on data analysis projects.
