@@ -20,7 +20,7 @@ Below are some of the projects I've worked on, demonstrating my approach to anal
 
 ### [Project 3: Sales report in Power Bi]
 - **Summary**: This project presents an in-depth analysis of sales performance using Power BI. It explores various aspects of sales data to identify trends, patterns, and opportunities for improvement.
-- **Tools & Technologies**: Power Bi
+- **Tools & Technologies**: Power Bi (free version, i don't have a professional mail adress so i can't share the link to the work but i can upload the pdf file of it)
 - **Key Insights**: Analyzed sales trends over time to identify seasonal patterns and sales fluctuations.
                     Examined sales performance across different product categories and regions.
                     Utilized slicers and filters for interactive exploration of sales data.
