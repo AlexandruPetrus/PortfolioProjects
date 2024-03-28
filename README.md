@@ -25,8 +25,8 @@ Below are some of the projects I've worked on, demonstrating my approach to anal
                     Examined sales performance across different product categories and regions.
                     Utilized slicers and filters for interactive exploration of sales data.
                     Implemented measures and calculated columns to derive additional insights from the dataset.
-- **[View Project](Projects/Sales performance project.pdf)**
-- 
+- **[View Project](Projects/Sales performance project.pdf).**
+  
 ## Skills and Competencies
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
